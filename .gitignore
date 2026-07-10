@@ -1,2 +1,4 @@
 .vscode
 *testOutput*
+*a.out
+a.out.*
