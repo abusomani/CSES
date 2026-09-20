@@ -1,4 +1,4 @@
-.vscode
 *testOutput*
-*a.out
+*.out
 a.out.*
+.vscode
